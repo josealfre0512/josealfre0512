@@ -33,12 +33,14 @@ Estudiante de Ingeniería en Informática en la **UPTAEB** y desarrollador de so
 
 ---
 
+---
+
 ### 📬 Conectemos y Portafolio
 <p>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-alfredo-rodr%C3%ADguez-dev">
+  <a href="https://www.linkedin.com/in/jose-alfredo-rodriguez-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://josealfredo-dev.gt.tc">
+  <a href="https://josealfredo-dev.gt.tc" target="_blank">
     <img src="https://img.shields.io/badge/Sitio_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web" />
   </a>
   <a href="mailto:josealfredo594@gmail.com">
